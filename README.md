@@ -17,4 +17,4 @@ Descrição breve do projeto.
 
 ## Autor
 
-Ector Yuri
+Ector Yuri Duarte Menezes
